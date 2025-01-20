@@ -1,0 +1,3 @@
+Dataset Name,Classifier Used,F1 Score,Accuracy,Model Name
+Dataset_B,Protein Prediction,0.9244712858334375,0.9120455389263714,TOSICA
+Dataset_B,Protein Prediction,0.8801753732740566,0.8473592719684231,ScMMT
